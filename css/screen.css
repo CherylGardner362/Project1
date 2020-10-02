@@ -16,7 +16,7 @@ input[type="checkbox"]{
 	float: left;
 }
 form{
-	background-color: blue
+	background-color: blue;
 	width: 100%;
 }
 #submit-button{
@@ -24,6 +24,9 @@ form{
 	height: 30px;
 	background-color: yellow;
 	text-decoration-color: black;
+}
+.question{
+	font-size: 12px;
 }
 h1{
 	font-size: 32px;
