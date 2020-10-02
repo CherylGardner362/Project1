@@ -1,22 +1,33 @@
 html{
-	font-size: 1.375em;
-	line-height: 1.182em;
-	padding: 1.182em;
 	text-align: center;
-}
-form{ 
-	background-color: turquoise;
-}
-h1{
-	font-size: 2.00em;
-	line-height: 1.6183em
-	padding: 1.182em;
-}
-h3{
-	font-size: 1.5em;
-	line-height: 1.6em
+	align-content: center;
+	background-color: crimson;
 }
 input{
 	box-sizing: border-box;
 	width: 98%;
+	padding: 12px;
+	display: inline-block;
+	border-radius: 25%
+	font-size: 16px;
+
+}
+.submit-button{
+	width: 45%;
+	background-color: yellow;
+	text-decoration-color: black;
+}
+h1{
+	font-size: 24px;
+	padding-bottom: 5px;
+}
+h3{
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+label{
+	display: block;
+	font-weight: bold;
+	height: 30px;
+	padding-bottom: 10px;
 }
