@@ -1,6 +1,42 @@
+html{
+	text-align: center;
+	align-content: center;
+	background: crimson;
+}
+input{
+	box-sizing: border-box;
+	width: 98%;
+	margin: 25px;
+	display: inline-block;
+	border-radius: 5px
+	font-size: 16px;
+}
+input[type="checkbox"]{
+	width: 30%;
+	float: left;
+}
+form{
+	background-color: blue
+}
+#submit-button{
+	width: 45%;
+	background-color: yellow;
+	text-decoration-color: black;
+}
 h1{
-	font-size: 2em;
+	font-size: 24px;
+	padding-bottom: 5px
 }
 h3{
-	font-size: 1.25em;
+	font-size: 16px;
+	padding-bottom: 5px
+}
+label{
+	display: block;
+	font-weight: bold;
+	height: 30px;
+	font-size: 16px;
+	padding-bottom: 10px;
+	margin: 2px;
+	color: white;
 }
