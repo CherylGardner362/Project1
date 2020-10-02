@@ -1,21 +1,37 @@
 <!DOCTYPE html>
- <html lang="en" class="nojs">
- <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0,shrink-to-fit=no" />
-   <link rel="stylesheet" media="screen" href="css/screen.css" />
-   <title>My Form Promotion</title>
-  </head>
-  <body>
-  	<h1>US Soccer Ultimate Fan Club</h1>
-  	<h3>Sign up to get once in a lifetime opportunities including zoom calls with players, free tickets, and autographed jerseys</h3>
-  	<form onsubmit="validate()" method="get" action="#null" autocomplete="on">
-  	  <div><label>Full Name: <input type="text" name="full_name" placeholder="Full Name Goes Here"></label></div>
-  	  <div><label>Email: <input type="email" name="email" placeholder="xxx@gmail.com"></label></div>
-  	  <div><label>Favorite NWSL Team: <input type="text" name="fav_team" placeholder="Enter Favorite Team"></label></div>
-  	  <input type="checkbox" id="promotion" name="promotions" value="Yes">
-  	  	<label for="promotion">Check this Box to receive updates of new event opportuties or new swag</label>
-  	  <input type="submit" value="Join The Fan Club" class="submit-button">
-  	</form>
-  </body>
- </html>
+<html lang="en" class="nojs">
+<head>
+  <title>My Form Promotion</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
+  <link rel="stylesheet" media="screen" href="css/reset.css" />
+  <link rel="stylesheet" media="screen" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>US Soccer Ultimate Fan Club</h1>
+    <h3>Sign up to get once in a lifetime opportunities including zoom calls with players, free tickets, and autographed jerseys</h3>
+  </header>
+  <form action="null" method="post" autocomplete="on">
+    <div>
+      <label for="full_name">Full Name:</label>
+      <input type="text" name="full_name" placeholder="Full Name Goes Here">
+    </div>
+    <div>
+      <label for="email">Email:</label>
+      <input type="email" name="email" placeholder="xxx@gmail.com">
+    </div>
+    <div>
+      <label for="fav_team">Favorite NWSL Team:</label>
+      <input type="text" name="fav_team" placeholder="Enter Favorite Team">
+    </div>
+    <div>
+      <input type="checkbox" name="promotion" value="Yes">
+      <label for="promotion">Check this Box to receive updates of new event opportunities or new swag</label>
+    </div>
+    <div>
+      <input id="submit-button" type="submit" value="Join The Fan Club">
+    </div>
+  </form>
+</body>
+</html>
