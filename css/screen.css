@@ -11,10 +11,6 @@ input{
 	border-radius: 5px
 	font-size: 16px;
 }
-input[type="checkbox"]{
-	margin-left: 0;
-	float: left;
-}
 form{
 	background-color: blue;
 	width: 100%;
@@ -27,7 +23,7 @@ form{
 }
 .question{
 	font-size: 16px;
-	margin-bottom: 15px
+	margin-bottom: 20px
 }
 h1{
 	font-size: 32px;
