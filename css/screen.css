@@ -6,37 +6,39 @@ html{
 input{
 	box-sizing: border-box;
 	width: 98%;
-	margin: 25px;
+	margin: 5px;
 	display: inline-block;
 	border-radius: 5px
 	font-size: 16px;
 }
 input[type="checkbox"]{
-	width: 30%;
+	width: 50%;
 	float: left;
 }
 form{
 	background-color: blue
+	width: 100%;
 }
 #submit-button{
 	width: 45%;
+	height: 30px;
 	background-color: yellow;
 	text-decoration-color: black;
 }
 h1{
-	font-size: 24px;
+	font-size: 32px;
 	padding-bottom: 5px
 }
 h3{
-	font-size: 16px;
+	font-size: 20px;
 	padding-bottom: 5px
 }
 label{
 	display: block;
 	font-weight: bold;
 	height: 30px;
-	font-size: 16px;
-	padding-bottom: 10px;
+	font-size: 20px;
+	padding-bottom: 5px;
 	margin: 2px;
 	color: white;
 }
