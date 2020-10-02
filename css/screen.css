@@ -13,7 +13,8 @@ input{
 
 }
 input[type="checkbox"]{
-	width: 50%;
+	width: 30%;
+	float: left;
 }
 form{
 	background-color: blue;
