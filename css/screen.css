@@ -68,4 +68,7 @@ label{
 		font-size: 24px;
 		float: right;
 	}
+	label{
+		color: black;
+	}
 }
