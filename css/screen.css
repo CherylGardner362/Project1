@@ -42,3 +42,30 @@ label{
 	margin: 2px;
 	color: white;
 }
+@media screen and (min-width: 510px) {
+	html{
+		background: #CD5C5C;
+	}
+	form{
+		background-color: #6495ED;
+	}
+	input{
+		width: 70%;
+		font-size: 20px;
+		border-radius: 10px;
+	}
+}
+@media screen and (min-width: 768px) {
+	html{
+		background: #F08080;
+	}
+	form{
+		background-color: #E0FFFF;
+		float: right;
+	}
+	input{
+		width: 50%;
+		font-size: 24px;
+		float: right;
+	}
+}
