@@ -64,13 +64,13 @@ label{
 		float: right;
 	}
 	input{
-		width: 50%;
+		width: 45%;
 		font-size: 24px;
 		float: right;
 	}
 	label{
 		float: left;
-		width: 47%;
+		width: 45%;
 		margin-left: 3%;
 		color: black;
 	}
