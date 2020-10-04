@@ -18,18 +18,19 @@ form{
 }
 #submit-button{
 	width: 45%;
-	height: 30px;
+	height: 32px;
 	background-color: yellow;
 	text-decoration-color: black;
+	font-family: 'Anton', sans-serif;
 }
 .question{
 	font-size: 16px;
 	margin-bottom: 20px
 }
 h1{
-	font-size: 32px;
+	font-size: 40px;
 	padding-bottom: 5px;
-	color: gold;
+	color: springgreen;
 	font-family: 'Berkshire Swash', cursive;
 }
 h3{
@@ -43,37 +44,42 @@ label{
 	display: block;
 	font-weight: bold;
 	height: 30px;
-	font-size: 20px;
+	font-size: 24px;
 	padding-bottom: 5px;
 	margin: 2px;
-	color: white;
+	color: lavender;
 }
 @media screen and (min-width: 510px) {
 	html{
 		background: #CD5C5C;
+		margin-top: 10px;
 	}
 	form{
 		background-color: #6495ED;
 	}
 	input{
 		width: 70%;
-		font-size: 20px;
+		font-size: 30px;
 		border-radius: 10px;
 	}
 	label{
-		font-size: 20px;
+		font-size: 30px;
+		color: mediumspringgreen;
 	}
 	h1{
-		font-size: 40px;
+		font-size: 48px;
+		color: aquamarine;
 	}
 	h3{
-		font-size: 28px;
+		font-size: 30px;
+		color: honeydew;
 	}
 	.question{
-		font-size: 20px;
+		font-size: 30px;
 	}
 	#submit-button{
 		width: 40%;
+		height: 32px;
 	}
 }
 @media screen and (min-width: 768px) {
@@ -81,6 +87,7 @@ label{
 		background: #F08080;
 	}
 	form{
+		margin-top: 25px
 		background-color: #E0FFFF;
 		float: right;
 	}
@@ -96,12 +103,15 @@ label{
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px;
+		color: darkviolet;
 	}
 	h1{
 		font-size: 56px;
+		color: indigo;
 	}
 	h3{
 		font-size: 32px;
+		color: paleturquoise;
 	}
 	#checkbox{
 		float: left;
