@@ -29,11 +29,15 @@ form{
 h1{
 	font-size: 32px;
 	padding-bottom: 5px
+	color: gold;
+	font-family: 'Berkshire Swash', cursive;
 }
 h3{
 	font-size: 20px;
 	font-weight: bold;
 	padding-bottom: 5px
+	font-family: 'Bebas Neue', cursive;
+	color: mistyrose;
 }
 label{
 	display: block;
