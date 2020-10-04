@@ -75,11 +75,11 @@ label{
 		color: honeydew;
 	}
 	.question{
-		font-size: 30px;
+		font-size: 24px;
 	}
 	#submit-button{
 		width: 40%;
-		height: 32px;
+		height: 24px;
 	}
 }
 @media screen and (min-width: 768px) {
