@@ -100,8 +100,13 @@ label{
 	h3{
 		font-size: 32px;
 	}
+	#checkbox{
+		float: left;
+		margin-right: 2%;
+		width: 20%;
+	}
 	.question{
 		float: right;
-		width: 45%;
+		width: 70%;
 	}
 }
