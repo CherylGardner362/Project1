@@ -103,9 +103,8 @@ label{
 	#checkbox{
 		float: left;
 		margin-top: 10px;
-		margin-left: 2%;
+		margin-left: 8%;
 		width: 5%;
-		align-content: right;
 	}
 	.question{
 		float: left;
