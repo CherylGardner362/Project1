@@ -36,7 +36,7 @@ h1{
 h3{
 	font-size: 20px;
 	font-weight: bold;
-	padding-bottom: 5px
+	padding-bottom: 5px;
 	font-family: 'Bebas Neue', cursive;
 	color: mistyrose;
 }
@@ -88,7 +88,7 @@ label{
 		background: #F08080;
 	}
 	form{
-		margin-top: 25px
+		margin-top: 25px;
 		background-color: #E0FFFF;
 		float: right;
 	}
