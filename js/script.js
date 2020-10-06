@@ -6,6 +6,6 @@ function confirmJoin(){
 	else{
 		alert("We hope you join us soon!!");
 	}
-
+}
 	var q1 = document.getElementById('submit-button');
 	q1.addEventListener('click',confirmJoin)
