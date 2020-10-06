@@ -1,5 +1,5 @@
 function confirmJoin(){
-	var answer = confrim("Are you ready to join the fan club?");
+	var answer = confirm("Are you ready to join the fan club?");
 	if (answer == true) {
 		alert("Welcome to the club!!!");
 	}
