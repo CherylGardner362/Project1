@@ -14,4 +14,5 @@ function confirmJoin(){
 		alert("We hope that you will join us soon!!")
 	}
 }
+document.getElementById("submit-button").addEventListener("click",confirmJoin());
 document.getElementById("submit-button").addEventListener("click",clearData());
