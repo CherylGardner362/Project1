@@ -12,4 +12,4 @@ function confirmJoin(){
 	}
 }
 document.getElementById("submit-button").addEventListener("click",confirmJoin());
-document.getElementById("submit-button").addEventListener("click",clearData());
+//document.getElementById("submit-button").addEventListener("click",clearData());
