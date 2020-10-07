@@ -25,6 +25,7 @@ function validationEvent() {
 		return false;
 	}
 }
-
+	
 	var q1 = document.getElementById('submit-button');
 	q1.addEventListener('click',confirmJoin)
+	q1.addEventListener('click',validationEvent)
