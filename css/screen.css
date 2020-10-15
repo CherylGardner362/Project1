@@ -23,8 +23,8 @@ form{
 }
 #submit-button{
 	width: 60%;
-	height: 28px; /* 1.75em */
-	padding: 10px 0 10px 0;
+	height: 40px; /* 1.75em */
+	padding: 5px 0 15px 0;
 	background-color: yellow;
 	text-decoration-color: black;
 	font-family: 'Anton', sans-serif;
