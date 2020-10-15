@@ -101,7 +101,8 @@ label{
 	input{
 		width: 45%;
 		font-size: 24px; /* 1.5em */
-		float: right;
+		float: left;
+		margin-left: 3%;
 	}
 	label{
 		font-size: 24px; /* 1.5em */
@@ -111,6 +112,7 @@ label{
 		color: black;
 		margin-top: 5px; /* .313em */ 
 		color: darkviolet;
+		text-align: left;
 	}
 	h1{
 		font-size: 56px; /* 3.5em */
