@@ -86,7 +86,6 @@ label{
 	#submit-button{
 		width: 40%;
 		font-size: 24px; /* 1.5em */
-		height: 32px; /* 2em */
 	}
 }
 @media screen and (min-width: 768px) {
