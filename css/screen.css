@@ -121,10 +121,12 @@ label{
 		font-size: 32px; /* 2em */
 		color: paleturquoise;
 	}
+	#checkbox-div{
+		margin-left: 2%;
+	}
 	#checkbox{
 		float: left;
 		margin-top: 10px; /* .625em */
-		margin-left: 3%;
 		width: 5%;
 	}
 	.question{
