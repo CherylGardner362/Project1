@@ -98,26 +98,20 @@ label{
 		float: right;
 	}
 	input{
-		width: 45%;
+		width: 60%;
 		font-size: 24px; /* 1.5em */
 		float: left;
-		margin-top: 0;
+		margin-top: 5px;
 	}
 	label{
 		font-size: 24px; /* 1.5em */
 		float: left;
-		width: 225px;
+		width: 250px;
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px; /* .313em */ 
 		color: darkviolet;
 		text-align: left;
-	}
-	#name{
-		width: 150px;
-	}
-	#mail{
-		width: 100px;
 	}
 	h1{
 		font-size: 56px; /* 3.5em */
