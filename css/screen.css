@@ -103,7 +103,7 @@ label{
 		font-size: 24px; /* 1.5em */
 		float: left;
 		margin-top: 5px;
-		margin-right: 5%
+		margin-right: 6%
 	}
 	label{
 		font-size: 24px; /* 1.5em */
@@ -131,6 +131,7 @@ label{
 		margin-top: 10px; /* .625em */
 		width: auto;
 		margin-right: 0;
+		margin-left: 0;
 	}
 	.question{
 		float: left;
