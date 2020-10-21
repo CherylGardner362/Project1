@@ -98,7 +98,7 @@ label{
 		float: right;
 	}
 	input{
-		width: 65%;
+		width: 67%;
 		font-size: 24px; /* 1.5em */
 		float: left;
 		margin-top: 5px;
@@ -106,7 +106,7 @@ label{
 	label{
 		font-size: 24px; /* 1.5em */
 		float: left;
-		width: 25%;
+		width: 23%;
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px; /* .313em */ 
@@ -136,16 +136,16 @@ label{
 		text-align: left;
 	}
 	#name{
-		width: 20%;
+		width: 13%;
 	}
 	#full_name{
-		width: 70%;
+		width: 77%;
 	}
 	#mail{
-		width: 15%;
+		width: 10%;
 	}
 	#email{
-		width: 75%;
+		width: 870%;
 	}
 	#
 	#submit-button{
