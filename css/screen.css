@@ -129,7 +129,7 @@ label{
 	#checkbox{
 		float: left;
 		margin-top: 10px; /* .625em */
-		width: 5%;
+		width: auto;%;
 		margin-right: 0;
 	}
 	.question{
