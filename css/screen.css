@@ -99,7 +99,7 @@ label{
 		float: right;
 	}
 	input{
-		width: 68%;
+		width: 65%;
 		font-size: 24px; /* 1.5em */
 		float: left;
 		margin-top: 5px;
@@ -107,7 +107,7 @@ label{
 	label{
 		font-size: 24px; /* 1.5em */
 		float: left;
-		width: 22%;
+		width: 25%;
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px; /* .313em */ 
@@ -137,10 +137,10 @@ label{
 		text-align: left;
 	}
 	#name{
-		width: 12%;
+		width: 15%;
 	}
 	#full_name{
-		width: 78%;
+		width: 75%;
 	}
 	#mail{
 		width: 10%;
