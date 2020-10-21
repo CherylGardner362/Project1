@@ -98,7 +98,7 @@ label{
 		float: right;
 	}
 	input{
-		width: 60%;
+		width: 65%;
 		font-size: 24px; /* 1.5em */
 		float: left;
 		margin-top: 5px;
@@ -106,7 +106,7 @@ label{
 	label{
 		font-size: 24px; /* 1.5em */
 		float: left;
-		width: 250px;
+		width: 25%;
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px; /* .313em */ 
@@ -122,7 +122,7 @@ label{
 		color: paleturquoise;
 	}
 	#checkbox-div{
-		margin-left: 2%;
+		margin-left: 3%;
 	}
 	#checkbox{
 		float: left;
@@ -134,8 +134,20 @@ label{
 		margin-left: 1%;
 		width: 70%;
 		text-align: left;
-
 	}
+	#name{
+		width: 20%;
+	}
+	#full_name{
+		width: 70%;
+	}
+	#mail{
+		width: 15%;
+	}
+	#email{
+		width: 75%;
+	}
+	#
 	#submit-button{
 		width: 30%;
 		margin: 0 35% 0 35%	}
