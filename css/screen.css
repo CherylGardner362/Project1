@@ -136,16 +136,16 @@ label{
 		text-align: left;
 	}
 	#name{
-		width: 13%;
-	}
-	#full_name{
-		width: 77%;
-	}
-	#mail{
 		width: 10%;
 	}
+	#full_name{
+		width: 80%;
+	}
+	#mail{
+		width: 8%;
+	}
 	#email{
-		width: 870%;
+		width: 82%;
 	}
 	#
 	#submit-button{
