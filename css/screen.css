@@ -113,7 +113,6 @@ label{
 		margin-top: 5px; /* .313em */ 
 		color: darkviolet;
 		text-align: left;
-		margin-right: 7%;
 	}
 	h1{
 		font-size: 56px; /* 3.5em */
@@ -129,7 +128,7 @@ label{
 	#checkbox{
 		float: left;
 		margin-top: 10px; /* .625em */
-		width: auto;%;
+		width: auto;
 		margin-right: 0;
 	}
 	.question{
