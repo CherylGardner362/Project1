@@ -125,6 +125,7 @@ label{
 	}
 	#checkbox-div{
 		margin-left: 3%;
+		width: 97%;
 	}
 	#checkbox{
 		float: left;
@@ -139,11 +140,15 @@ label{
 		width: 70%;
 		text-align: left;
 	}
+	#name-div{
+		width: 98%;
+	}
 	#name{
 		width: 120px;
 	}
 	#full_name{
 		width: 75%;
+		margin-right: auto;
 	}
 	#mail{
 		width: 80px;
