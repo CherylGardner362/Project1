@@ -108,7 +108,7 @@ label{
 	label{
 		font-size: 24px; /* 1.5em */
 		float: left;
-		width: 30%;
+		width: 240px;
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px; /* .313em */ 
@@ -140,13 +140,13 @@ label{
 		text-align: left;
 	}
 	#name{
-		width: 15%;
+		width: 120px;
 	}
 	#full_name{
 		width: 75%;
 	}
 	#mail{
-		width: 10%;
+		width: 80px;
 	}
 	#email{
 		width: 80%;
