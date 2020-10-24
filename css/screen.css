@@ -157,5 +157,23 @@ label{
 		margin: 0 35% 0 35%	}
 }
 @media screen and (min-width: 992px){
-
+	#name{
+		width: 12%;
+	}
+	#full_name{
+		width: 48%;
+	}
+	#mail{
+		width: 7%;
+	}
+	#email{
+		width: 53%;
+	}
+	input{
+		width: 36%;
+		margin-right: 36%;
+	}
+	label{
+		width: 24%;
+	}
 }
