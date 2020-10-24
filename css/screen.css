@@ -99,16 +99,16 @@ label{
 		float: right;
 	}
 	input{
-		width: 43%;
+		width: 44%;
 		font-size: 24px; /* 1.5em */
 		float: left;
 		margin-top: 5px;
-		margin-right: 22%
+		margin-right: 20%
 	}
 	label{
 		font-size: 24px; /* 1.5em */
 		float: left;
-		width: 32%;
+		width: 31%;
 		margin-left: 3%;
 		color: black;
 		margin-top: 5px; /* .313em */ 
