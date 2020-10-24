@@ -176,4 +176,25 @@ label{
 	label{
 		width: 24%;
 	}
+@media screen and (min-width: 1200px){
+	#name{
+		width: 10%;
+	}
+	#full_name{
+		width: 40%;
+	}
+	#mail{
+		width: 6%;
+	}
+	#email{
+		width: 44%;
+	}
+	input{
+		width: 30%;
+		margin-right: 46%;
+	}
+	label{
+		width: 20%;
+	}
+}
 }
