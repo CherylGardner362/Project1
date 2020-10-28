@@ -30,8 +30,11 @@ form{
 	text-decoration-color: black;
 	font-family: 'Anton', sans-serif;
 }
+#checkbox{
+	margin-top: 20px;
+}
 .question{
-	font-size: 16px;
+	font-size: 20px;
 	margin-bottom: 20px
 }
 h1{
