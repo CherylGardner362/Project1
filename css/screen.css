@@ -15,6 +15,7 @@ input{
 	display: inline-block;
 	border-radius: 5px; /* .313em */ 
 	font-size: 24px; /* 1.5em */
+	margin-bottom: 20px;
 }
 form{
 	margin-top: 10px; /* .625em */
@@ -24,14 +25,14 @@ form{
 #submit-button{
 	align-content: center;
 	width: 60%;
-	height: 40px; /* 1.75em */
+	height: 40px; /* 2.5em */
 	padding: 5px 0 15px 0;
 	background-color: yellow;
 	text-decoration-color: black;
 	font-family: 'Anton', sans-serif;
 }
 #checkbox{
-	margin-top: 20px;
+	margin-bottom: 0;
 }
 .question{
 	font-size: 20px;
