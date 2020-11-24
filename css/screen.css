@@ -4,201 +4,202 @@
 */
 
 html{
-	text-align: center;
-	align-content: center;
-	background: #EF7676;
+  text-align: center;
+  align-content: center;
+  background: #EF7676;
 }
 input{
-	box-sizing: border-box;
-	width: 98%;
-	margin: 5px; /* .313em */ 
-	display: inline-block;
-	border-radius: 5px; /* .313em */ 
-	font-size: 24px; /* 1.5em */
-	margin-bottom: 20px;
-	margin-top: 0;
+  box-sizing: border-box;
+  width: 98%;
+  margin: 5px; /* .313em */ 
+  display: inline-block;
+  border-radius: 5px; /* .313em */ 
+  font-size: 24px; /* 1.5em */
+  margin-bottom: 20px;
+  margin-top: 0;
 }
 form{
-	margin-top: 10px; /* .625em */
-	background-color: #3BAFF7;
-	width: 100%;
+  margin-top: 10px; /* .625em */
+  background-color: #3BAFF7;
+  width: 100%;
 }
 #submit-button{
-	align-content: center;
-	width: 60%;
-	height: 40px; /* 2.5em */
-	padding: 5px 0 15px 0;
-	background-color: yellow;
-	text-decoration-color: black;
-	font-family: 'Anton', sans-serif;
+  align-content: center;
+  width: 60%;
+  height: 40px; /* 2.5em */
+  padding: 5px 0 15px 0;
+  background-color: yellow;
+  text-decoration-color: black;
+  font-family: 'Anton', sans-serif;
 }
 #checkbox{
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 .question{
-	font-size: 20px;
-	margin-bottom: 20px
+  font-size: 20px;
+  margin-bottom: 20px
 }
 h1{
-	font-size: 40px; /* 2.5em */
-	padding-bottom: 5px; /* .313em */ 
-	color: #9500FF;
-	font-family: 'Berkshire Swash', cursive;
+  font-size: 40px; /* 2.5em */
+  padding-bottom: 5px; /* .313em */ 
+  color: #9500FF;
+  font-family: 'Berkshire Swash', cursive;
 }
 h3{
-	font-size: 20px; /* 1.25em */
-	font-weight: bold;
-	padding-bottom: 5px; /* .313em */ 
-	font-family: 'Bebas Neue', cursive;
-	color: #2DD2D2;
+  font-size: 20px; /* 1.25em */
+  font-weight: bold;
+  padding-bottom: 5px; /* .313em */ 
+  font-family: 'Bebas Neue', cursive;
+  color: #2DD2D2;
 }
 label{
-	display: block;
-	font-weight: bold;
-	height: 30px;
-	font-size: 24px; /* 1.5em */
-	padding-bottom: 5px; /* .313em */ 
-	margin: 2px;
-	color: #470066;
+  display: block;
+  font-weight: bold;
+  height: 30px;
+  font-size: 24px; /* 1.5em */
+  padding-bottom: 5px; /* .313em */ 
+  margin: 2px;
+  color: #470066;
 }
 @media screen and (min-width: 510px) {
-	html{
-		background: #F28F8D;
-		margin-top: 10px; /* .625em */
-	}
-	form{
-		background-color: #87CEFA;
-	}
-	input{
-		width: 70%;
-		font-size: 30px; /* 1.875em */
-		border-radius: 10px; /* .625em */
-	}
-	label{
-		font-size: 30px; /* 1.875em */
-		color: #7D00B3;
-	}
-	h1{
-		font-size: 48px; /* 3em */
-		color: #6800B3;
-	}
-	h3{
-		font-size: 30px; /* 1.875em */
-		color: #6CE0E0;
-	}
-	.question{
-		font-size: 24px; /* 1.5em */
-	}
-	#submit-button{
-		width: 40%;
-		font-size: 24px; /* 1.5em */
-	}
+  html{
+    background: #F28F8D;
+    margin-top: 10px; /* .625em */
+  }
+  form{
+    background-color: #87CEFA;
+  }
+  input{
+    width: 70%;
+    font-size: 30px; /* 1.875em */
+    border-radius: 10px; /* .625em */
+  }
+  label{
+    font-size: 30px; /* 1.875em */
+    color: #7D00B3;
+  }
+  h1{
+    font-size: 48px; /* 3em */
+    color: #6800B3;
+  }
+  h3{
+    font-size: 30px; /* 1.875em */
+    color: #6CE0E0;
+  }
+  .question{
+    font-size: 24px; /* 1.5em */
+  }
+  #submit-button{
+    width: 40%;
+    font-size: 24px; /* 1.5em */
+  }
 }
 @media screen and (min-width: 768px) {
-	html{
-		background: #F4A4A4;
-	}
-	form{
-		margin-top: 24px; /* 1.5em */
-		background-color: #B6E1FC;
-		float: right;
-	}
-	input{
-		width: 44%;
-		font-size: 24px; /* 1.5em */
-		float: left;
-		margin-top: 5px;
-		margin-right: 20%
-	}
-	label{
-		font-size: 24px; /* 1.5em */
-		float: left;
-		width: 31%;
-		margin-left: 3%;
-		color: black;
-		color: darkviolet;
-		text-align: left;
-	}
-	h1{
-		font-size: 56px; /* 3.5em */
-		color: indigo;
-	}
-	h3{
-		font-size: 32px; /* 2em */
-		color: paleturquoise;
-	}
-	#checkbox-div{
-		margin-left: 3%;
-		width: 97%;
-	}
-	#checkbox{
-		float: left;
-		margin-top: 10px; /* .625em */
-		width: auto;
-		margin-right: 0;
-		margin-left: 0;
-	}
-	.question{
-		float: left;
-		margin-left: 1%;
-		width: 70%;
-		text-align: left;
-	}
-	#name{
-		width: 15%;
-	}
-	#full_name{
-		width: 60%;
-	}
-	#mail{
-		width: 10%;
-	}
-	#email{
-		width: 65%;
-	}
-	#submit-button{
-		width: 30%;
-		margin: 0 35% 0 35%	}
+  html{
+    background: #F4A4A4;
+  }
+  form{
+    margin-top: 24px; /* 1.5em */
+    background-color: #B6E1FC;
+    float: right;
+  }
+  input{
+    width: 44%;
+    font-size: 24px; /* 1.5em */
+    float: left;
+    margin-top: 5px;
+    margin-right: 20%
+  }
+  label{
+    font-size: 24px; /* 1.5em */
+    float: left;
+    width: 31%;
+    margin-left: 3%;
+    color: black;
+    color: darkviolet;
+    text-align: left;
+  }
+  h1{
+    font-size: 56px; /* 3.5em */
+    color: indigo;
+  }
+  h3{
+    font-size: 32px; /* 2em */
+    color: paleturquoise;
+  }
+  #checkbox-div{
+    margin-left: 3%;
+    width: 97%;
+  }
+  #checkbox{
+    float: left;
+    margin-top: 10px; /* .625em */
+    width: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .question{
+    float: left;
+    margin-left: 1%;
+    width: 70%;
+    text-align: left;
+  }
+  #name{
+    width: 15%;
+  }
+  #full_name{
+    width: 60%;
+  }
+  #mail{
+    width: 10%;
+  }
+  #email{
+    width: 65%;
+  }
+  #submit-button{
+    width: 30%;
+    margin: 0 35% 0 35%	
+  }
 }
 @media screen and (min-width: 992px){
-	#name{
-		width: 12%;
-	}
-	#full_name{
-		width: 48%;
-	}
-	#mail{
-		width: 7%;
-	}
-	#email{
-		width: 53%;
-	}
-	input{
-		width: 36%;
-		margin-right: 36%;
-	}
-	label{
-		width: 24%;
-	}
-@media screen and (min-width: 1200px){
-	#name{
-		width: 10%;
-	}
-	#full_name{
-		width: 40%;
-	}
-	#mail{
-		width: 6%;
-	}
-	#email{
-		width: 44%;
-	}
-	input{
-		width: 30%;
-		margin-right: 46%;
-	}
-	label{
-		width: 20%;
-	}
+  #name{
+    width: 12%;
+  }
+  #full_name{
+    width: 48%;
+  }
+  #mail{
+    width: 7%;
+  }
+  #email{
+    width: 53%;
+  }
+  input{
+    width: 36%;
+    margin-right: 36%;
+  }
+  label{
+    width: 24%;
+  }
 }
+@media screen and (min-width: 1200px){
+  #name{
+    width: 10%;
+  }
+  #full_name{
+    width: 40%;
+  }
+  #mail{
+    width: 6%;
+  }
+  #email{
+    width: 44%;
+  }
+  input{
+    width: 30%;
+    margin-right: 46%;
+  }
+  label{
+    width: 20%;
+  }
 }
